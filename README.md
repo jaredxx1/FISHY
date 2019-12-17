@@ -1,5 +1,7 @@
 # FISHY
 
+![alt text](https://i.imgur.com/BFNUjSb.png)
+
 This is a proof-of-concept of an advanced phishing attack.
 
 ###### Demo site - https://owoameliorate.github.io/FISHY/
