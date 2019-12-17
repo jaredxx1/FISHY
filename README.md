@@ -7,7 +7,7 @@ This is a proof-of-concept of an advanced phishing attack.
 #### It works by creating a fake browser window and inserting a phishing page into the fake window. In order for the attacker to set valid domain and SSL certificate. In order to deceive the victim into not being able to distinguish the difference.
 
 The only way the victim could notice the attack, is if the victim tried to drag the phishing site window outside of their current browser.
-
+ 
 You could further improve on this implementation and allow them to inspect the SSL certificate and input a valid certificate.
 
 Be careful of what you think is a legitimate site!
