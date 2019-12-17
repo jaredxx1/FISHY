@@ -1,6 +1,6 @@
 # FISHY
 
-![alt text](https://i.imgur.com/7Erj1ib.png)
+![alt text](https://i.imgur.com/7Erj1ib.png | width=600)
 
 This is a proof-of-concept of an advanced phishing attack.
 
